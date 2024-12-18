@@ -1,1 +1,2 @@
 # Handy-Cursor
+This project is a hand gesture detection based cursor control system. By using a laptop camera and libraries such as OpenCV, NumPy, PyAutoGUI, and CVZone, this program detects the position and movement of fingers to control the computer cursor.
