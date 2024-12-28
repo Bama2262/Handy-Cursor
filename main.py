@@ -1,8 +1,3 @@
-# closing all fingers nothing will happen
-# control the cursor using only the index finger
-# when pointing, open middle finger to left click
-# when pointing, open little finger to right click
-
 import cv2
 import numpy as np
 import pyautogui
